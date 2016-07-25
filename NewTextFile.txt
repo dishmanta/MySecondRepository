@@ -1,1 +1,2 @@
 New Text in my new file
+Second line of text
