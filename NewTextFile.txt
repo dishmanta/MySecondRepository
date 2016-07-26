@@ -1,2 +1,3 @@
 New Text in my new file
 Second line of text
+3rd line of text
